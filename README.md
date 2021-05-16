@@ -21,7 +21,7 @@ Projeto desenvolvido na trilha Node.js
   
 ## Features
 
-- Chat para suporte usando protocolo protocolo websocket(WS)
+- Chat para suporte usando protocolo websocket(WS)
 
   
 ## Documentation
